@@ -1,17 +1,14 @@
-# meals_app
+# Meals App
 
-A new Flutter project.
+Mobile app created using Flutter. What I learn when make this app are:
 
-## Getting Started
+- navigation
+- routing
+- multiple screen
+- send data between screen
 
-This project is a starting point for a Flutter application.
+I learn to make this app from Udemy Course.
 
-A few resources to get you started if this is your first Flutter project:
+## Overview
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# meals_app
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/9270545/169772130-dd8bfce8-a2d9-49f4-9a7b-d5cce7ebf9b5.gif)
